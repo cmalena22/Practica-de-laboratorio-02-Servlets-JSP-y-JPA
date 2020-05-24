@@ -1,4 +1,18 @@
 # Practica-de-laboratorio-02-Servlets-JSP-y-JPA
+
+Diagrama Entidad Relacion
+![base](https://user-images.githubusercontent.com/46982373/82761376-b63d3380-9dbf-11ea-899f-da392a310546.png)
+
+
+
+Diagrama de Clases
+
+![diagrama](https://user-images.githubusercontent.com/46982373/82761395-cf45e480-9dbf-11ea-9fe9-9742f49cccbc.png)
+
+
+
+
+
 Creando entidades 
 package ec.ups.edu.entidades;
 
