@@ -1,6 +1,9 @@
 # Practica-de-laboratorio-02-Servlets-JSP-y-JPA
 
 Diagrama Entidad Relacion
+
+
+
 ![base](https://user-images.githubusercontent.com/46982373/82761376-b63d3380-9dbf-11ea-899f-da392a310546.png)
 
 
